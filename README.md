@@ -25,7 +25,7 @@ luxury-housing-bengaluru/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/luxury-housing-bengaluru.git
+git clone https://github.com/G1rixh/luxury-housing-bengaluru.git
 cd luxury-housing-bengaluru
 ```
 
