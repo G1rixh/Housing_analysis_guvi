@@ -1,12 +1,3 @@
-"""
-====================================================
-Luxury Housing Sales Analysis — Bengaluru
-Streamlit Dashboard
-====================================================
-Run: streamlit run app.py
-Pre-requisite: Run clean_and_load.py first to generate luxury_housing.db
-"""
-
 import sqlite3
 import pandas as pd
 import plotly.express as px
