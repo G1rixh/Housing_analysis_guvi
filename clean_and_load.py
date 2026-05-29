@@ -1,14 +1,3 @@
-"""
-====================================================
-Luxury Housing Sales Analysis - Bengaluru
-Step 1 : Data Cleaning & Feature Engineering
-Step 2 : Load cleaned data into SQLite via SQLAlchemy
-====================================================
-Dataset  : Luxury_Housing_Bangalore.csv  (101,000 rows)
-Database : luxury_housing.db
-Table    : luxury_housing_sales
-"""
-
 import pandas as pd
 import numpy as np
 import re
